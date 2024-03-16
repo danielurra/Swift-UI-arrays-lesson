@@ -1,5 +1,5 @@
-# Swift-UI-arrays-lesson
-Swift UI arrays lesson
+# SwiftUI Arrays lesson
+Using XCode Playground to learn about Arrays.<br>
 ![Screenshot 2024-03-16 at 7 28 43 AM](https://github.com/danielurra/Swift-UI-arrays-lesson/assets/51704179/08eb3774-bc96-4607-a8e0-7e2db8d97248)<br>
 ## Grab the code
 ```swift
